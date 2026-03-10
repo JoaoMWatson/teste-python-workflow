@@ -1,5 +1,6 @@
 import sys
 import json
+import requests
 
 def main(event):
     print("Event data:", event)
