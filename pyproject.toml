@@ -3,11 +3,14 @@ name = "coe-integration-confluent-access-management"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "João Pedro Watson",email = "joaopedrowatson"}
+    {name = "João Pedro Watson",email = "joaopedro.wat22@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "blue (>=0.9.1,<0.10.0)",
+    "isort (>=8.0.1,<9.0.0)",
+    "requests (>=2.32.5,<3.0.0)"
 ]
 
 
